@@ -1,6 +1,6 @@
-# PortfolioRisk-Pro | Portfolio Market Risk System
+# NSE Risk Desk | Portfolio Market Risk System
 
-A production-style market risk system built in Python for a 5-stock NSE equity portfolio. Covers the full risk analyst workflow — from raw price data to a regulatory-aligned Excel dashboard.
+A production-style market risk system built in Python for a 5-stock NSE equity portfolio. Covers the full risk analyst workflow from raw price data to a regulatory-aligned Excel dashboard.
 
 ---
 
@@ -64,38 +64,30 @@ Auto-generated via `openpyxl` — summary, risk decomposition, stress testing, b
 ## Tech Stack
 - **Python:** `pandas`, `numpy`, `scipy`, `yfinance`, `matplotlib`, `seaborn`, `openpyxl`
 - **Environment:** Jupyter Notebook (Anaconda)
-- **Output:** Excel dashboard (`outputs/risk_dashboard.xlsx`)
+- **Output:** Excel dashboard (`risk_dashboard.xlsx`)
 
 ---
 
 ## Repository Structure
 
-PortfolioRisk-Pro/
-
-├── Current_Project.ipynb
-
-├── data/
-
-│   └── prices.csv
-
-├── outputs/
-
-│   └── risk_dashboard.xlsx
-
-└── reports/
-
-└── Methodology_Report.docx
+```
+NSE-Risk-Desk/
+├── nse_risk_desk.ipynb
+├── risk_dashboard.xlsx
+├── Methodology_Report.docx
+└── README.md
+```
 
 ---
 
 ## Methodology
 Full model documentation including assumptions, limitations, and Basel III/FRTB alignment:
-📄 [`reports/Methodology_Report.docx`](reports/Methodology_Report.docx)
+📄 [`Methodology_Report.docx`](Methodology_Report.docx)
 
 ---
 
 ## Author
 **Yusuf Sayeed**
 FRM Part I (Q1 Ranking across all four subjects) | FMVA
-Jamia Millia Islamia (2026)
+Geography Honours + Economics Minor, Jamia Millia Islamia (2026)
 🔗 [LinkedIn](https://www.linkedin.com/in/yusuf-sayeed-fmva%C2%AE-711521315/) | [GitHub](https://github.com/Yusuf-Sayeed)
