@@ -89,5 +89,5 @@ Full model documentation including assumptions, limitations, and Basel III/FRTB 
 ## Author
 **Yusuf Sayeed**
 FRM Part I (Q1 Ranking across all four subjects) | FMVA
-Geography Honours + Economics Minor, Jamia Millia Islamia (2026)
+Jamia Millia Islamia (2026)
 🔗 [LinkedIn](https://www.linkedin.com/in/yusuf-sayeed-fmva%C2%AE-711521315/) | [GitHub](https://github.com/Yusuf-Sayeed)
